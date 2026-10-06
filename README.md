@@ -11,8 +11,13 @@ Finance student at **Fordham University's Gabelli School of Business** (Finance,
 | Project | What it does | Stack |
 |---|---|---|
 | [Stock Research System](https://github.com/Hmelconian21/Stock-Research-System) | Automated S&P 500 screening, SEC EDGAR financial-statement analysis, news synthesis, scheduled email alerts | Python, pandas, SEC EDGAR API, yfinance |
+| [Watchlist Dashboard](https://github.com/Hmelconian21/watchlist-dashboard) | Web dashboard combining live prices, valuation, DCF, and portfolio risk through one set of API endpoints | Python, pandas, yfinance, SciPy |
+| [Options Chain Viewer](https://github.com/Hmelconian21/options-chain-viewer) | Pulls and formats option chains for any ticker, with CSV export | Python, pandas, yfinance |
+| [Risk Dashboard](https://github.com/Hmelconian21/risk-dashboard) | Portfolio risk report built from a positions file | Python, pandas, SciPy |
+| [Valuation Model](https://github.com/Hmelconian21/valuation-model) | Composite valuation combining DCF with other methods into one fair-value estimate | Python, yfinance, SciPy |
+| [DCF Model](https://github.com/Hmelconian21/dcf-model) | Discounted cash flow valuation with a sensitivity grid on discount rate and growth | Python, yfinance |
 
-**Tools:** Python · pandas · NumPy · Git · REST APIs (SEC EDGAR, yfinance, Gmail)
+**Tools:** Python · pandas · NumPy · SciPy · Git · REST APIs (SEC EDGAR, yfinance, Gmail)
 
 📫 [LinkedIn](https://www.linkedin.com/in/henry-melconian)
 
