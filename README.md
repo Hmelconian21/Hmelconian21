@@ -4,7 +4,7 @@ Finance student at **Fordham University's Gabelli School of Business** (Finance,
 
 - 🔭 Currently building: an automated stock research pipeline (S&P 500 screening → SEC EDGAR analysis → news synthesis → email alerts)
 - 🧠 Interests: fintech, applied AI in finance, derivatives, portfolio risk
-- 🌍 Fluent in Armenian, intermediate Spanish. LSE Summer School: AI for Business, Strategy & Governance (2026)
+- LSE Summer School: AI for Business, Strategy & Governance (2026)
 
 **Featured projects**
 
